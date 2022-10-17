@@ -47,6 +47,7 @@ function inserirNovoItem () {
                     <p class="mb-0">${complemento}</p>
                     <p class="mb-0">${contato}</p>
                 </div>
+                <img class="img-fluid" src="./assets/img/6.jpg" alt="..." />
             </div>
         </a>
     </div>`
